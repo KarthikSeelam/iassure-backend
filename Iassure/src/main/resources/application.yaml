@@ -45,8 +45,8 @@ app:
 cloud:
   aws:
     credentials:
-      access-key: AKIAYS2NTPYNMKWJWQLE
-      secret-key: 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
+      access-key: test
+      secret-key: test
     region:
       static: us-east-1
     stack:
@@ -56,7 +56,7 @@ application:
     name: documents-iassure
 
 openai:
-  api-key: "sk-proj-5Gf8yXaih5ZiGOJrUo6FT3BlbkFJvrwFbBmUCcFIdpBJ00ub"
+  api-key: "test"
   url: "https://api.openai.com/v1/completions"
   chat-url: "https://api.openai.com/v1/chat/completions"
 
