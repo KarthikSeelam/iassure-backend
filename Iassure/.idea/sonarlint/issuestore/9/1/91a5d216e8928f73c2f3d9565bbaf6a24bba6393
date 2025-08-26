@@ -1,0 +1,35 @@
+
+2
+java:S16439"Use a StringBuilder instead.(êÂöâ
+z
+java:S1488Š"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÐÐî…ýÿÿÿÿ
+G
+java:S11539"1Directly append the argument of String.valueOf().(êÂöâ
+`
+java:S2259}"EA "NullPointerException" could be thrown; "getKey()" can return null.(©ËÁÿýÿÿÿÿ
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(øìÂüÿÿÿÿ
+T
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(©Û„ˆ
+V	java:S125B"<This block of commented-out lines of code should be removed.(¦ý¼Ôúÿÿÿÿ
+V	java:S125F"<This block of commented-out lines of code should be removed.(¦ý¼Ôúÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(¶îðûùÿÿÿÿ
+\
+java:S3457K"AFormat specifiers should be used instead of string concatenation.(‘³êƒøÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(Ô–†âûÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(„ÔžÕüÿÿÿÿ
+Q	java:S125x"<This block of commented-out lines of code should be removed.(ž ùÀ
+F	java:S106"+Replace this use of System.out by a logger.(ü†ö”ýÿÿÿÿ
+]
+java:S3457‚"AFormat specifiers should be used instead of string concatenation.(ð†Ø«ûÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(†›õÃùÿÿÿÿ
+A	java:S106‰"+Replace this use of System.out by a logger.(—Ã’å
+]
+java:S3457Š"AFormat specifiers should be used instead of string concatenation.(Šúÿ“ùÿÿÿÿ
+M
+java:S1874—"6Remove this use of "queryForObject"; it is deprecated.( Ìà°
+?	java:S108˜")Either remove or fill this block of code.(”ý¾
+3
+java:S1116£"Remove this empty statement.(ñ¨°û
+W	java:S125­"<This block of commented-out lines of code should be removed.(Å³Ìµýÿÿÿÿ

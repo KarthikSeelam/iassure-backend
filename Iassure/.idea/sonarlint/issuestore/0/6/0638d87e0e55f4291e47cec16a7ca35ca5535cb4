@@ -1,0 +1,46 @@
+
+‹
+java:S1192_"HDefine a constant instead of duplicating this literal "message" 3 times.(ğø•Û8ÊŸÜ€2J$b8ae3d74-b73c-4b67-a358-aeb7e5670cbd
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Úˆº8ÖŸÜ€2J$a77fa3fd-cab9-42ee-9d05-9abcb870cc4b
+n
+java:S1452$"&Remove usage of generic wildcard type.(¾ñÿáúÿÿÿÿ8 Ü€2J$dc6d1896-7a62-4f36-9052-f086c5f936f3
+i
+java:S1452*"&Remove usage of generic wildcard type.(ÀÖË¢8³ Ü€2J$b70b2967-4515-481d-9b85-cab0f0e83bcc
+m	java:S1061"+Replace this use of System.out by a logger.( ²¶°8Ã Ü€2J$13690a86-fd3d-4ac7-9901-11739e8ffc0b
+n
+java:S14527"&Remove usage of generic wildcard type.(±ËÜôÿÿÿÿÿ8Ã Ü€2J$82cfd526-573f-4819-8d47-02531fcec625
+m	java:S106<"+Replace this use of System.out by a logger.(Â‰Æ8Ê Ü€2J$16f4cc02-6886-40e0-85c9-21de5f8e7c33
+n
+java:S1452B"&Remove usage of generic wildcard type.(şå‚ßûÿÿÿÿ8Ì Ü€2J$20e53f15-75ae-4082-a017-00ef5b496e80
+r	java:S106G"+Replace this use of System.out by a logger.(¤•¸úÿÿÿÿ8Õ Ü€2J$95561cdc-a77a-4620-adfd-8a1c8ded2273
+n
+java:S1452M"&Remove usage of generic wildcard type.(ğ°–Öúÿÿÿÿ8â Ü€2J$2a880d7d-e2c1-432d-952c-138345c95768
+r	java:S106R"+Replace this use of System.out by a logger.(´•§Ãøÿÿÿÿ8î Ü€2J$3a77e8db-cfab-434e-b9b9-5337fd73467a
+i
+java:S1452X"&Remove usage of generic wildcard type.(ïìÜî8î Ü€2J$a020a883-5f35-4463-b595-54f9fd2dae91
+k	java:S108a")Either remove or fill this block of code.(”ı¾8ˆ¡Ü€2J$742f34d0-b6b4-4cc8-88c5-cacf6e57c403
+i
+java:S1452h"&Remove usage of generic wildcard type.(ÉƒÓÉ8ˆ¡Ü€2J$9a167eb0-62bf-4a46-98f7-2d41529fb7c0
+k	java:S108q")Either remove or fill this block of code.(”ı¾8ˆ¡Ü€2J$6d2b14e3-c14a-4abf-a942-390ef191b254
+n
+java:S1452w"&Remove usage of generic wildcard type.(³•ÿùøÿÿÿÿ8ˆ¡Ü€2J$12a4a10e-15c4-4287-8986-bfbfe6e13044
+l	java:S108€")Either remove or fill this block of code.(”ı¾8ˆ¡Ü€2J$af66a862-8528-42e8-8ccf-8a04ad35fa33
+o
+java:S1452†"&Remove usage of generic wildcard type.(Ë£À–úÿÿÿÿ8’¡Ü€2J$4ccfcf1b-6685-4aed-8797-6ea3ff944cfa
+m	java:S106‹"+Replace this use of System.out by a logger.(ñêŠ8•¡Ü€2J$850b72b8-828c-478d-a64d-410b36a1154b
+o
+java:S1452‘"&Remove usage of generic wildcard type.(²­àµúÿÿÿÿ8•¡Ü€2J$d4b814e6-40b7-448c-98c6-f03545825531
+n	java:S106š"+Replace this use of System.out by a logger.(‰Íô¿8•¡Ü€2J$187e14fa-0ab2-4ba3-8673-dc2f4af967e3
+s	java:S106¥"+Replace this use of System.out by a logger.(— ı¸şÿÿÿÿ8•¡Ü€2J$335579e5-3954-49df-be43-d0e44afd16da
+j
+java:S1452¶"&Remove usage of generic wildcard type.(ÀÈ˜±8¾¡Ü€2J$c74fb19f-b93d-4c48-b4bf-e4be4c17bdd5
+Y	java:S125«"<This block of commented-out lines of code should be removed.(ÜûÖş8ïªë€2
+n	java:S106»"+Replace this use of System.out by a logger.(½‹“´8¾¡Ü€2J$00595b3f-e718-4172-b0bc-3f4824914807
+j
+java:S1452Á"&Remove usage of generic wildcard type.(ÄÍ«²8¾¡Ü€2J$985c2808-bf17-4b56-af8c-90b2f9dedc77
+k
+java:S1125Å"'Remove the unnecessary boolean literal.(îçÊÿ8Ä¡Ü€2J$7c0dca94-b621-4dc1-9300-55e47cd240f8
+n	java:S106Ç"+Replace this use of System.out by a logger.(½‹“´8Æ¡Ü€2J$6f9f09ca-fc5f-4dca-8940-bba965bdda67
+j
+java:S1452Ø"&Remove usage of generic wildcard type.(Óñü–8Í¡Ü€2J$f8d66627-3ce1-4b70-82ff-127533a676b0
+n	java:S106İ"+Replace this use of System.out by a logger.(¥‰«8Í¡Ü€2J$a241a767-8458-4192-86e7-8916199b7218

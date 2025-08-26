@@ -1,0 +1,8 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºäÑüüÿÿÿÿJ$10babfc3-aff3-4b07-88cd-87889e173d86
+w
+java:S1128";Remove this unused import 'com.Iassure.dto.UserDetailsDTO'.(í—¤J$09241be3-1a9b-4c07-8000-9615a096c38c
+r
+java:S1128	"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙEJ$b21d0557-ad08-491e-b80d-679e3acade88
+j
+java:S1128"/Remove this unused import 'java.sql.Timestamp'.(èò½+J$42f1cd1f-7c01-4f5a-8954-daa4a0221035

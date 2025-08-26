@@ -1,0 +1,38 @@
+
+
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á÷øÌ8‘Íæ€2J$1a25f17b-95c1-4aea-9bd5-c7833d46177c
+
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á÷øÌ8”Íæ€2J$e43e7dac-d87b-44af-9e31-6cc70aa645c1
+
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á÷øÌ8”Íæ€2J$d0e333cb-74a2-4d7a-9930-bf69beff1814
+Œ
+java:S1192"HDefine a constant instead of duplicating this literal "message" 9 times.(ÈÑ–Ö8™Íæ€2J$cb417611-e233-4c86-b9bd-0f52c7b32b50
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€çÉ­ùÿÿÿÿ8¦Íæ€2J$1b136eef-157a-46d6-adbf-35ac36469c2d
+~	java:S125L"<This block of commented-out lines of code should be removed.(‰›ıå8×Íæ€2J$5c107ee5-1a25-404a-98aa-e0a007f823ed
+m	java:S106a"+Replace this use of System.out by a logger.( ²¶°8ŞÍæ€2J$641b652c-57cd-43a5-af9c-c46e0ec34725
+m	java:S106l"+Replace this use of System.out by a logger.(Â‰Æ8áÍæ€2J$7b20d244-cf5e-49e9-9236-d8391f0cbfab
+m	java:S106w"+Replace this use of System.out by a logger.(ô“Œ±8áÍæ€2J$e2c929c2-3929-4fa3-8acb-ab8b793766a1
+n	java:S106‚"+Replace this use of System.out by a logger.(ğì–8áÍæ€2J$69dca1bd-6011-4276-b002-e9262bc8e144
+„	java:S125¤"<This block of commented-out lines of code should be removed.(ü•Çîıÿÿÿÿ8áÍæ€2J$585f043e-2e80-4b0d-b69a-49163595a3f1
+s	java:S106¿"+Replace this use of System.out by a logger.(´àÿÿÿÿÿ8ğÍæ€2J$20ff87ac-a061-42a7-9649-4b5efd8b1914
+n	java:S106ã"+Replace this use of System.out by a logger.(ø«©÷8òÍæ€2J$ae26d39d-b233-49fa-8e42-24656c2d73e1
+s	java:S106ú"+Replace this use of System.out by a logger.(ç•Ï—şÿÿÿÿ8òÍæ€2J$72b05144-1679-4cec-8ba2-3c5a5f6387c4
+‡
+java:S1854ƒ">Remove this useless assignment to local variable "userTypeId".(Ê¸ÅĞÿÿÿÿÿ8€Îæ€2J$cbda29c3-c85d-4a52-b600-f5a54bd58562
+‹
+java:S1854™"GRemove this useless assignment to local variable "generatedIncidentId".(œØ±Ä8€Îæ€2J$0af1a66c-504b-49aa-890b-8e238064f402
+x
+java:S1481ƒ"/Remove this unused "userTypeId" local variable.(Ê¸ÅĞÿÿÿÿÿ8€Îæ€2J$7aa06ce7-d454-4d68-a0d0-3d2f6379515b
+„	java:S125"<This block of commented-out lines of code should be removed.(¤²õ¿úÿÿÿÿ8€Îæ€2J$f457c270-ebef-4dbf-ba50-8932624bc981
+Ÿ
+java:S2159“"VRemove this call to "equals"; comparisons between unrelated types always return false.(Üö¶Óûÿÿÿÿ8€Îæ€2J$9fde1dfe-be0a-4772-a735-fcfde6359da4
+|
+java:S1481™"8Remove this unused "generatedIncidentId" local variable.(œØ±Ä8€Îæ€2J$9f7dc56d-a2be-410e-ac85-25b5ce79b6f7
+	java:S125š"<This block of commented-out lines of code should be removed.(Ó©Ó†8€Îæ€2J$5a49959a-6804-4b16-8851-577f0bd40469
+„	java:S125¡"<This block of commented-out lines of code should be removed.(Î™£ªúÿÿÿÿ8€Îæ€2J$e2ea46fd-d69a-41ed-8200-a52cbd2b1bc2
+¾
+java:S6204¦"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8€Îæ€2J$313d6b41-fe00-4d01-98c3-a0f6b5ee89b2
+	java:S125©"<This block of commented-out lines of code should be removed.(½‘Ñ³8€Îæ€2J$1c0ad727-781c-4f62-b0f9-a20223886b41
+s	java:S106´"+Replace this use of System.out by a logger.(ÜÜ…‡ÿÿÿÿÿ8€Îæ€2J$b018cd05-0c3d-4a6a-ad4f-61251c56bc90
+s	java:S106Ó"+Replace this use of System.out by a logger.(°óø©şÿÿÿÿ8Îæ€2J$c20c83e7-2bc3-431c-b604-3c061c5253fb
+	java:S125Ø"<This block of commented-out lines of code should be removed.(şû—¶8Îæ€2J$f7a18678-98f5-476e-875b-5029011365f4

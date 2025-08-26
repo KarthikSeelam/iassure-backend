@@ -1,0 +1,83 @@
+
+K
+java:S3740™"/Provide the parametrized type for this generic.(Ô÷›†úÿÿÿÿ
+E
+java:S3740¨"/Provide the parametrized type for this generic.(İœz
+K
+java:S3740è"/Provide the parametrized type for this generic.(Ô÷›†úÿÿÿÿ
+K
+java:S3740„"/Provide the parametrized type for this generic.(Ô÷›†úÿÿÿÿ
+K
+java:S3740œ"/Provide the parametrized type for this generic.(Ô÷›†úÿÿÿÿ
+K
+java:S3740®"/Provide the parametrized type for this generic.(Ô÷›†úÿÿÿÿ
+l
+java:S1192"UDefine a constant instead of duplicating this literal "yyyy-MMM-dd HH:mm:ss" 5 times.(§¨Šê
+b
+java:S1192è"KDefine a constant instead of duplicating this literal "dd-MM-yyyy" 3 times.(Şá¬€
+b
+java:S1192T"LDefine a constant instead of duplicating this literal "yyyy-MM-dd" 18 times.(«ĞÎ·
+F
+java:S1066º"/Merge this if statement with the enclosing one.(«œûÈ
+P
+java:S1141."5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141O"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141X"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141d"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141n"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141z"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+}
+java:S1488í"aImmediately return this expression instead of assigning it to the temporary variable "todayDate".(èÜÈ€øÿÿÿÿ
+}
+java:S1488Ñ"aImmediately return this expression instead of assigning it to the temporary variable "finalDate".(óÖ¡¡øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ’È
+Q	java:S125("<This block of commented-out lines of code should be removed.(ÙõÙü
+V	java:S1256"<This block of commented-out lines of code should be removed.(½€÷Şşÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(¬Ô¿‡ÿÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(òÓÒš
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ã”–í
+m
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ñ¼ğÿÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(ìøÆÑ
+R	java:S125"<This block of commented-out lines of code should be removed.(šõ‘É
+Q	java:S125‘"<This block of commented-out lines of code should be removed.(Äõ@
+Q	java:S125“"<This block of commented-out lines of code should be removed.(ßÍ­
+R	java:S125˜"<This block of commented-out lines of code should be removed.(ã”–í
+X
+java:S1854¾"<Remove this useless assignment to local variable "parsedDt".(íåÄ¦ûÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(šõ‘É
+Q	java:S125Ì"<This block of commented-out lines of code should be removed.(Äõ@
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(Œéğ¯øÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(†½‹âÿÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(±áŞİûÿÿÿÿ
+‘
+java:S6204°"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+‘
+java:S6204·"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+‘
+java:S6204¾"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+‘
+java:S6204Å"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+‘
+java:S6204Ì"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+‘
+java:S6204Ó"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+‘
+java:S6204Ú"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹
+S
+java:S1854ê"7Remove this useless assignment to local variable "age".(²…óîÿÿÿÿÿ
+D
+java:S1481ê"(Remove this unused "age" local variable.(²…óîÿÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(ÏÊ²Öùÿÿÿÿ
+A	java:S106‡"+Replace this use of System.out by a logger.(ïß¾¥
+i
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(É—½
+R	java:S125´"<This block of commented-out lines of code should be removed.(œÈ®Ÿ
+F	java:S106Ğ"+Replace this use of System.out by a logger.(›éƒ•ûÿÿÿÿ

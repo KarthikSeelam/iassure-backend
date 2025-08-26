@@ -1,0 +1,38 @@
+
+X
+java:S1643:"Use a StringBuilder instead.(êÂöâJ$351405d1-d99c-461b-99e3-50794484714e
+ 
+java:S1488‹"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÐÐî…ýÿÿÿÿJ$5a8eac8b-6232-4bfc-943a-6695b0b06034
+m
+java:S1153:"1Directly append the argument of String.valueOf().(êÂöâJ$8b731136-9c1d-429e-ae22-6b4bd93c2a28
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÌÌJ$2598139f-3a10-464c-8e39-615f16cba44b
+†
+java:S2259~"EA "NullPointerException" could be thrown; "getKey()" can return null.(©ËÁÿýÿÿÿÿJ$575609da-2f76-4d72-97b1-7f3aeb008df7
+“
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(øìÂüÿÿÿÿJ$6cafe10f-9726-4763-97ee-72b9f492d5df
+z
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(©Û„ˆJ$e4716b60-b0b9-4d3f-a678-f8a029881eb4
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(¦ý¼Ôúÿÿÿÿ8‹´¶€2J$0266f1f8-171d-4bfe-b210-a53bc26c00cb
+ƒ	java:S125G"<This block of commented-out lines of code should be removed.(¦ý¼Ôúÿÿÿÿ8àÕ¶€2J$21afb8f5-6898-49eb-8126-d28939e2df86
+k	java:S106K"+Replace this use of System.out by a logger.(¶îðûùÿÿÿÿJ$e43c746f-0cef-40eb-8e4b-0731749e91b0
+‚
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(‘³êƒøÿÿÿÿJ$842cae09-ceda-4d26-8e98-bf13bb3bbd56
+ƒ	java:S125^"<This block of commented-out lines of code should be removed.(Ô–†âûÿÿÿÿ8òª³€2J$7141ffac-aeca-4acc-a5bf-bc96ad60c5af
+ƒ	java:S125r"<This block of commented-out lines of code should be removed.(„ÔžÕüÿÿÿÿ8Ôô³€2J$49b65abc-ec64-4c5a-b9ed-631560db0f51
+w	java:S125y"<This block of commented-out lines of code should be removed.(ž ùÀJ$ec63aec6-762a-4262-a1ca-409ead2fd856
+l	java:S106‚"+Replace this use of System.out by a logger.(ü†ö”ýÿÿÿÿJ$4bc02383-e3bc-4c52-917e-d0044d735e07
+ƒ
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(ð†Ø«ûÿÿÿÿJ$f42424a6-9a05-4456-9b45-dd274c3c6591
+}	java:S125"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿJ$4cd941d8-7824-46e5-b250-4ba2294a33bc
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(†›õÃùÿÿÿÿ8±Ø·€2
+g	java:S106Š"+Replace this use of System.out by a logger.(—Ã’åJ$53da1ed2-6705-4514-850e-52d2f99211a0
+ƒ
+java:S3457‹"AFormat specifiers should be used instead of string concatenation.(Šúÿ“ùÿÿÿÿJ$91dc0f8a-b9f2-4bcc-9500-f8db0e6171eb
+s
+java:S1874˜"6Remove this use of "queryForObject"; it is deprecated.( Ìà°J$bcef492f-153b-4db3-a120-34e5424b7a0c
+e	java:S108™")Either remove or fill this block of code.(”ý¾J$51fb8a3a-adfd-45ae-82f6-03106f6a51c4
+Y
+java:S1116¤"Remove this empty statement.(ñ¨°ûJ$722b5980-8882-4494-84b0-a812bae3d0f3
+}	java:S125®"<This block of commented-out lines of code should be removed.(Å³ÌµýÿÿÿÿJ$6d2194fb-34e6-45cd-b786-c55d9902107e
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÎØ·€2

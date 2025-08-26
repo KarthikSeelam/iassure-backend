@@ -1,0 +1,81 @@
+server:
+  port: 8084
+  servlet:
+    contextPath: /iassure
+
+spring :
+  mail:
+    default-encoding: UTF-8
+    host: smtp.zoho.in
+    username: noreply-rmwilliams@innoclique.com
+    password: NedhbUv7mQc6
+    port: 465
+    protocol: smtp
+    test-connection: false
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 10MB
+  application:
+    name: Iassure
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://db.fknsolutions.com.au:3306/iAssure_Dev?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC
+    username: Innoclique
+    password: PBn*6c-eoUcucJxhmZ.w
+  jpa:
+    hibernate:
+      naming:
+        implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+app:
+  security:
+    enabled: false
+  jwtSecret: 4bb6d1dfbafb64a681139d1586b6f1160d18159afd57c8c79136d7490630407c
+  jwtExpirationInMs: 604800000
+
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAYS2NTPYNMKWJWQLE
+      secret-key: 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
+    region:
+      static: us-east-1
+    stack:
+      auto: false
+application:
+  bucket:
+    name: documents-iassure
+
+openai:
+  api-key: "sk-proj-5Gf8yXaih5ZiGOJrUo6FT3BlbkFJvrwFbBmUCcFIdpBJ00ub"
+  url: "https://api.openai.com/v1/completions"
+  chat-url: "https://api.openai.com/v1/chat/completions"
+
+email:
+  isEnabled: Y
+
+
+qdrant:
+  url: "http://localhost:6333"
+
+azure:
+  tenant:
+    id: e0b88051-942d-47a7-9270-8eff3861662a
+  client:
+    id: 25b51ba2-6e4a-4d18-b9ec-c94bb9e58370
+    secret: 305d3808-489d-4540-85ed-e449a400ac39
+
+powerbi:
+  workspace:
+    id: b0135133-43da-4c32-ba84-acbd0e697b5a
+  report:
+    id: 154832ef-c2bb-4439-8c7f-e4d391c77f7b
